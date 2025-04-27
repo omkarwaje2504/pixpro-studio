@@ -1,0 +1,2214 @@
+[
+  {
+    "id": "21m00Tcm4TlvDq8ikWAM",
+    "name": "Rachel",
+    "gender": "Female",
+    "styles": [],
+    "description": "calm",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "21m00Tcm4TlvDq8ikWAM",
+    "name": "Rachel",
+    "gender": "Female",
+    "styles": [],
+    "description": "calm",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "29vD33N1CtxCmqQRPOHJ",
+    "name": "Drew",
+    "gender": "Male",
+    "styles": [],
+    "description": "well-rounded",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "29vD33N1CtxCmqQRPOHJ",
+    "name": "Drew",
+    "gender": "Male",
+    "styles": [],
+    "description": "well-rounded",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "2EiwWnXFnvU5JabPnv8n",
+    "name": "Clyde",
+    "gender": "Male",
+    "styles": [],
+    "description": "war veteran",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "2EiwWnXFnvU5JabPnv8n",
+    "name": "Clyde",
+    "gender": "Male",
+    "styles": [],
+    "description": "war veteran",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "5Q0t7uMcjvnagumLfvZi",
+    "name": "Paul",
+    "gender": "Male",
+    "styles": [],
+    "description": "authoritative",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "5Q0t7uMcjvnagumLfvZi",
+    "name": "Paul",
+    "gender": "Male",
+    "styles": [],
+    "description": "authoritative",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "9BWtsMINqrJLrRacOk9x",
+    "name": "Aria",
+    "gender": "Female",
+    "styles": [],
+    "description": "expressive",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "9BWtsMINqrJLrRacOk9x",
+    "name": "Aria",
+    "gender": "Female",
+    "styles": [],
+    "description": "expressive",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "AZnzlk1XvdvUeBnXmlld",
+    "name": "Domi",
+    "gender": "Female",
+    "styles": [],
+    "description": "strong",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "AZnzlk1XvdvUeBnXmlld",
+    "name": "Domi",
+    "gender": "Female",
+    "styles": [],
+    "description": "strong",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "CYw3kZ02Hs0563khs1Fj",
+    "name": "Dave",
+    "gender": "Male",
+    "styles": [],
+    "description": "conversational",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "CYw3kZ02Hs0563khs1Fj",
+    "name": "Dave",
+    "gender": "Male",
+    "styles": [],
+    "description": "conversational",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "CwhRBWXzGAHq8TQ4Fs17",
+    "name": "Roger",
+    "gender": "Male",
+    "styles": [],
+    "description": "confident",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "CwhRBWXzGAHq8TQ4Fs17",
+    "name": "Roger",
+    "gender": "Male",
+    "styles": [],
+    "description": "confident",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "D38z5RcWu1voky8WS1ja",
+    "name": "Fin",
+    "gender": "Male",
+    "styles": [],
+    "description": "sailor",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "D38z5RcWu1voky8WS1ja",
+    "name": "Fin",
+    "gender": "Male",
+    "styles": [],
+    "description": "sailor",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "EXAVITQu4vr4xnSDxMaL",
+    "name": "Sarah",
+    "gender": "Female",
+    "styles": [],
+    "description": "soft",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "EXAVITQu4vr4xnSDxMaL",
+    "name": "Sarah",
+    "gender": "Female",
+    "styles": [],
+    "description": "soft",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ErXwobaYiN019PkySvjV",
+    "name": "Antoni",
+    "gender": "Male",
+    "styles": [],
+    "description": "well-rounded",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ErXwobaYiN019PkySvjV",
+    "name": "Antoni",
+    "gender": "Male",
+    "styles": [],
+    "description": "well-rounded",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "FGY2WhTYpPnrIDTdsKH5",
+    "name": "Laura",
+    "gender": "Female",
+    "styles": [],
+    "description": "upbeat",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "FGY2WhTYpPnrIDTdsKH5",
+    "name": "Laura",
+    "gender": "Female",
+    "styles": [],
+    "description": "upbeat",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "GBv7mTt0atIp3Br8iCZE",
+    "name": "Thomas",
+    "gender": "Male",
+    "styles": [],
+    "description": "calm",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "GBv7mTt0atIp3Br8iCZE",
+    "name": "Thomas",
+    "gender": "Male",
+    "styles": [],
+    "description": "calm",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "IKne3meq5aSn9XLyUdCD",
+    "name": "Charlie",
+    "gender": "Male",
+    "styles": [],
+    "description": "natural",
+    "age": "middle aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "IKne3meq5aSn9XLyUdCD",
+    "name": "Charlie",
+    "gender": "Male",
+    "styles": [],
+    "description": "natural",
+    "age": "middle aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "JBFqnCBsd6RMkjVDRZzb",
+    "name": "George",
+    "gender": "Male",
+    "styles": [],
+    "description": "warm",
+    "age": "middle aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "JBFqnCBsd6RMkjVDRZzb",
+    "name": "George",
+    "gender": "Male",
+    "styles": [],
+    "description": "warm",
+    "age": "middle aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "LcfcDJNUP1GQjkzn1xUU",
+    "name": "Emily",
+    "gender": "Female",
+    "styles": [],
+    "description": "calm",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "LcfcDJNUP1GQjkzn1xUU",
+    "name": "Emily",
+    "gender": "Female",
+    "styles": [],
+    "description": "calm",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "MF3mGyEYCl7XYWbV9V6O",
+    "name": "Elli",
+    "gender": "Female",
+    "styles": [],
+    "description": "emotional",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "MF3mGyEYCl7XYWbV9V6O",
+    "name": "Elli",
+    "gender": "Female",
+    "styles": [],
+    "description": "emotional",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "N2lVS1w4EtoT3dr4eOWO",
+    "name": "Callum",
+    "gender": "Male",
+    "styles": [],
+    "description": "intense",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "N2lVS1w4EtoT3dr4eOWO",
+    "name": "Callum",
+    "gender": "Male",
+    "styles": [],
+    "description": "intense",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ODq5zmih8GrVes37Dizd",
+    "name": "Patrick",
+    "gender": "Male",
+    "styles": [],
+    "description": "shouty",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ODq5zmih8GrVes37Dizd",
+    "name": "Patrick",
+    "gender": "Male",
+    "styles": [],
+    "description": "shouty",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "SAz9YHcvj6GT2YYXdXww",
+    "name": "River",
+    "gender": "non-binary",
+    "styles": [],
+    "description": "confident",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "SAz9YHcvj6GT2YYXdXww",
+    "name": "River",
+    "gender": "non-binary",
+    "styles": [],
+    "description": "confident",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "SOYHLrjzK2X1ezoPC6cr",
+    "name": "Harry",
+    "gender": "Male",
+    "styles": [],
+    "description": "anxious",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "SOYHLrjzK2X1ezoPC6cr",
+    "name": "Harry",
+    "gender": "Male",
+    "styles": [],
+    "description": "anxious",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "TX3LPaxmHKxFdv7VOQHJ",
+    "name": "Liam",
+    "gender": "Male",
+    "styles": [],
+    "description": "articulate",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "TX3LPaxmHKxFdv7VOQHJ",
+    "name": "Liam",
+    "gender": "Male",
+    "styles": [],
+    "description": "articulate",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ThT5KcBeYPX3keUQqHPh",
+    "name": "Dorothy",
+    "gender": "Female",
+    "styles": [],
+    "description": "pleasant",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ThT5KcBeYPX3keUQqHPh",
+    "name": "Dorothy",
+    "gender": "Female",
+    "styles": [],
+    "description": "pleasant",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "TxGEqnHWrfWFTfGW9XjX",
+    "name": "Josh",
+    "gender": "Male",
+    "styles": [],
+    "description": "deep",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "TxGEqnHWrfWFTfGW9XjX",
+    "name": "Josh",
+    "gender": "Male",
+    "styles": [],
+    "description": "deep",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "VR6AewLTigWG4xSOukaG",
+    "name": "Arnold",
+    "gender": "Male",
+    "styles": [],
+    "description": "crisp",
+    "age": "middle aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "VR6AewLTigWG4xSOukaG",
+    "name": "Arnold",
+    "gender": "Male",
+    "styles": [],
+    "description": "crisp",
+    "age": "middle aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "XB0fDUnXU5powFXDhCwa",
+    "name": "Charlotte",
+    "gender": "Female",
+    "styles": [],
+    "description": "seductive",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "XB0fDUnXU5powFXDhCwa",
+    "name": "Charlotte",
+    "gender": "Female",
+    "styles": [],
+    "description": "seductive",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Xb7hH8MSUJpSbSDYk0k2",
+    "name": "Alice",
+    "gender": "Female",
+    "styles": [],
+    "description": "confident",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Xb7hH8MSUJpSbSDYk0k2",
+    "name": "Alice",
+    "gender": "Female",
+    "styles": [],
+    "description": "confident",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "XrExE9yKIg1WjnnlVkGX",
+    "name": "Matilda",
+    "gender": "Female",
+    "styles": [],
+    "description": "friendly",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "XrExE9yKIg1WjnnlVkGX",
+    "name": "Matilda",
+    "gender": "Female",
+    "styles": [],
+    "description": "friendly",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ZQe5CZNOzWyzPSCn5a3c",
+    "name": "James",
+    "gender": "Male",
+    "styles": [],
+    "description": "calm",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ZQe5CZNOzWyzPSCn5a3c",
+    "name": "James",
+    "gender": "Male",
+    "styles": [],
+    "description": "calm",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Zlb1dXrM653N07WRdFW3",
+    "name": "Joseph",
+    "gender": "Male",
+    "styles": [],
+    "description": "articulate",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "Zlb1dXrM653N07WRdFW3",
+    "name": "Joseph",
+    "gender": "Male",
+    "styles": [],
+    "description": "articulate",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bIHbv24MWmeRgasZH58o",
+    "name": "Will",
+    "gender": "Male",
+    "styles": [],
+    "description": "friendly",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bIHbv24MWmeRgasZH58o",
+    "name": "Will",
+    "gender": "Male",
+    "styles": [],
+    "description": "friendly",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bVMeCyTHy58xNoL34h3p",
+    "name": "Jeremy",
+    "gender": "Male",
+    "styles": [],
+    "description": "excited",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bVMeCyTHy58xNoL34h3p",
+    "name": "Jeremy",
+    "gender": "Male",
+    "styles": [],
+    "description": "excited",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cgSgspJ2msm6clMCkdW9",
+    "name": "Jessica",
+    "gender": "Female",
+    "styles": [],
+    "description": "expressive",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cgSgspJ2msm6clMCkdW9",
+    "name": "Jessica",
+    "gender": "Female",
+    "styles": [],
+    "description": "expressive",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cjVigY5qzO86Huf0OWal",
+    "name": "Eric",
+    "gender": "Male",
+    "styles": [],
+    "description": "friendly",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cjVigY5qzO86Huf0OWal",
+    "name": "Eric",
+    "gender": "Male",
+    "styles": [],
+    "description": "friendly",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "flq6f7yk4E4fJM5XTYuZ",
+    "name": "Michael",
+    "gender": "Male",
+    "styles": [],
+    "description": "calm",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "flq6f7yk4E4fJM5XTYuZ",
+    "name": "Michael",
+    "gender": "Male",
+    "styles": [],
+    "description": "calm",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g5CIjZEefAph4nQFvHAz",
+    "name": "Ethan",
+    "gender": "Male",
+    "styles": [],
+    "description": "soft",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "g5CIjZEefAph4nQFvHAz",
+    "name": "Ethan",
+    "gender": "Male",
+    "styles": [],
+    "description": "soft",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "iP95p4xoKVk53GoZ742B",
+    "name": "Chris",
+    "gender": "Male",
+    "styles": [],
+    "description": "casual",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "iP95p4xoKVk53GoZ742B",
+    "name": "Chris",
+    "gender": "Male",
+    "styles": [],
+    "description": "casual",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jBpfuIE2acCO8z3wKNLl",
+    "name": "Gigi",
+    "gender": "Female",
+    "styles": [],
+    "description": "childlish",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jBpfuIE2acCO8z3wKNLl",
+    "name": "Gigi",
+    "gender": "Female",
+    "styles": [],
+    "description": "childlish",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jsCqWAovK2LkecY7zXl4",
+    "name": "Freya",
+    "gender": "Female",
+    "styles": [],
+    "description": "expressive",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "jsCqWAovK2LkecY7zXl4",
+    "name": "Freya",
+    "gender": "Female",
+    "styles": [],
+    "description": "expressive",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "nPczCjzI2devNBz1zQrb",
+    "name": "Brian",
+    "gender": "Male",
+    "styles": [],
+    "description": "deep",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "nPczCjzI2devNBz1zQrb",
+    "name": "Brian",
+    "gender": "Male",
+    "styles": [],
+    "description": "deep",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "oWAxZDx7w5VEj9dCyTzz",
+    "name": "Grace",
+    "gender": "Female",
+    "styles": [],
+    "description": "pleasant",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "oWAxZDx7w5VEj9dCyTzz",
+    "name": "Grace",
+    "gender": "Female",
+    "styles": [],
+    "description": "pleasant",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "onwK4e9ZLuTAKqWW03F9",
+    "name": "Daniel",
+    "gender": "Male",
+    "styles": [],
+    "description": "authoritative",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "onwK4e9ZLuTAKqWW03F9",
+    "name": "Daniel",
+    "gender": "Male",
+    "styles": [],
+    "description": "authoritative",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pFZP5JQG7iQjIQuC4Bku",
+    "name": "Lily",
+    "gender": "Female",
+    "styles": [],
+    "description": "warm",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pFZP5JQG7iQjIQuC4Bku",
+    "name": "Lily",
+    "gender": "Female",
+    "styles": [],
+    "description": "warm",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pMsXgVXv3BLzUgSXRplE",
+    "name": "Serena",
+    "gender": "Female",
+    "styles": [],
+    "description": "pleasant",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pMsXgVXv3BLzUgSXRplE",
+    "name": "Serena",
+    "gender": "Female",
+    "styles": [],
+    "description": "pleasant",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pNInz6obpgDQGcFmaJgB",
+    "name": "Adam",
+    "gender": "Male",
+    "styles": [],
+    "description": "deep",
+    "age": "middle aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pNInz6obpgDQGcFmaJgB",
+    "name": "Adam",
+    "gender": "Male",
+    "styles": [],
+    "description": "deep",
+    "age": "middle aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piTKgcLEGmPE4e6mEKli",
+    "name": "Nicole",
+    "gender": "Female",
+    "styles": [],
+    "description": "soft",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "piTKgcLEGmPE4e6mEKli",
+    "name": "Nicole",
+    "gender": "Female",
+    "styles": [],
+    "description": "soft",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pqHfZKP75CvOlQylNhV4",
+    "name": "Bill",
+    "gender": "Male",
+    "styles": [],
+    "description": "trustworthy",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "pqHfZKP75CvOlQylNhV4",
+    "name": "Bill",
+    "gender": "Male",
+    "styles": [],
+    "description": "trustworthy",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t0jbNlBVZ17f02VDIeMI",
+    "name": "Jessie",
+    "gender": "Male",
+    "styles": [],
+    "description": "raspy",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "t0jbNlBVZ17f02VDIeMI",
+    "name": "Jessie",
+    "gender": "Male",
+    "styles": [],
+    "description": "raspy",
+    "age": "old",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "yoZ06aMxZJJ28mfd3POQ",
+    "name": "Sam",
+    "gender": "Male",
+    "styles": [],
+    "description": "raspy",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "yoZ06aMxZJJ28mfd3POQ",
+    "name": "Sam",
+    "gender": "Male",
+    "styles": [],
+    "description": "raspy",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "z9fAnlkpzviPz146aGWa",
+    "name": "Glinda",
+    "gender": "Female",
+    "styles": [],
+    "description": "witch",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "z9fAnlkpzviPz146aGWa",
+    "name": "Glinda",
+    "gender": "Female",
+    "styles": [],
+    "description": "witch",
+    "age": "middle-aged",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "zcAOhNBS3c14rBihAFp1",
+    "name": "Giovanni",
+    "gender": "Male",
+    "styles": [],
+    "description": "foreigner",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "zcAOhNBS3c14rBihAFp1",
+    "name": "Giovanni",
+    "gender": "Male",
+    "styles": [],
+    "description": "foreigner",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "zrHiDhphv9ZnVXBqCLjz",
+    "name": "Mimi",
+    "gender": "Female",
+    "styles": [],
+    "description": "childish",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "zrHiDhphv9ZnVXBqCLjz",
+    "name": "Mimi",
+    "gender": "Female",
+    "styles": [],
+    "description": "childish",
+    "age": "young",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi",
+        "config": {
+          "modelId": "eleven_multilingual_v2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "as-IN-YashicaNeural",
+    "name": "Yashica",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "as-IN",
+        "language": "Assamese"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "as-IN-PriyomNeural",
+    "name": "Priyom",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "as-IN",
+        "language": "Assamese"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "bn-IN-TanishaaNeural",
+    "name": "Tanishaa",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "bn-IN",
+        "language": "Bengali"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "bn-IN-BashkarNeural",
+    "name": "Bashkar",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "bn-IN",
+        "language": "Bengali"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "en-IN-AaravNeural",
+    "name": "Aarav",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "en-IN",
+        "language": "English"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "en-IN-AashiNeural",
+    "name": "Aashi",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "en-IN",
+        "language": "English"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "en-IN-AnanyaNeural",
+    "name": "Ananya",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "en-IN",
+        "language": "English"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "en-IN-KavyaNeural",
+    "name": "Kavya",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "en-IN",
+        "language": "English"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "en-IN-KunalNeural",
+    "name": "Kunal",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "en-IN",
+        "language": "English"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "en-IN-NeerjaNeural",
+    "name": "Neerja",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "en-IN",
+        "language": "English"
+      }
+    ],
+    "styles": ["newscast", "cheerful", "empathetic"]
+  },
+  {
+    "id": "en-IN-PrabhatNeural",
+    "name": "Prabhat",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "en-IN",
+        "language": "English"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "en-IN-RehaanNeural",
+    "name": "Rehaan",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "en-IN",
+        "language": "English"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "gu-IN-DhwaniNeural",
+    "name": "Dhwani",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "gu-IN",
+        "language": "Gujarati"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "gu-IN-NiranjanNeural",
+    "name": "Niranjan",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "gu-IN",
+        "language": "Gujarati"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "hi-IN-AaravNeural",
+    "name": "Aarav",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "hi-IN-AnanyaNeural",
+    "name": "Ananya",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "hi-IN-KavyaNeural",
+    "name": "Kavya",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "hi-IN-KunalNeural",
+    "name": "Kunal",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "hi-IN-RehaanNeural",
+    "name": "Rehaan",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "hi-IN-SwaraNeural",
+    "name": "Swara",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi"
+      }
+    ],
+    "styles": ["newscast", "cheerful", "empathetic"]
+  },
+  {
+    "id": "hi-IN-MadhurNeural",
+    "name": "Madhur",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "hi-IN",
+        "language": "Hindi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "kn-IN-SapnaNeural",
+    "name": "Sapna",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "kn-IN",
+        "language": "Kannada"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "kn-IN-GaganNeural",
+    "name": "Gagan",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "kn-IN",
+        "language": "Kannada"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "ml-IN-SobhanaNeural",
+    "name": "Sobhana",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "ml-IN",
+        "language": "Malayalam"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "ml-IN-MidhunNeural",
+    "name": "Midhun",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "ml-IN",
+        "language": "Malayalam"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "mr-IN-AarohiNeural",
+    "name": "Aarohi",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "mr-IN",
+        "language": "Marathi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "mr-IN-ManoharNeural",
+    "name": "Manohar",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "mr-IN",
+        "language": "Marathi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "or-IN-SubhasiniNeural",
+    "name": "Subhasini",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "or-IN",
+        "language": "Oriya"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "or-IN-SukantNeural",
+    "name": "Sukant",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "or-IN",
+        "language": "Oriya"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "pa-IN-OjasNeural",
+    "name": "Ojas",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "pa-IN",
+        "language": "Punjabi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "pa-IN-VaaniNeural",
+    "name": "Vaani",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "pa-IN",
+        "language": "Punjabi"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "ta-IN-PallaviNeural",
+    "name": "Pallavi",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "ta-IN-ValluvarNeural",
+    "name": "Valluvar",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "ta-IN",
+        "language": "Tamil"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "te-IN-ShrutiNeural",
+    "name": "Shruti",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "te-IN",
+        "language": "Telugu"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "te-IN-MohanNeural",
+    "name": "Mohan",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "te-IN",
+        "language": "Telugu"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "ur-IN-GulNeural",
+    "name": "Gul",
+    "gender": "Female",
+    "languages": [
+      {
+        "locale": "ur-IN",
+        "language": "Urdu"
+      }
+    ],
+    "styles": []
+  },
+  {
+    "id": "ur-IN-SalmanNeural",
+    "name": "Salman",
+    "gender": "Male",
+    "languages": [
+      {
+        "locale": "ur-IN",
+        "language": "Urdu"
+      }
+    ],
+    "styles": []
+  }
+]
