@@ -3,6 +3,9 @@ import { getItem } from "../Utils/indexedDbHelper";
 import * as Sentry from "@sentry/nextjs";
 
 export const ProjectInfo = async (hash) => {
+
+  console.log("ProjectInfo hash", hash);
+  console.log(Config);
   try {
     const projectInfoResponse = await fetch(
       `${Config.PROJECT_URL}/project/${hash}/info`,
