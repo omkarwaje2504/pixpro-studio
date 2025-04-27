@@ -4,7 +4,6 @@ import * as Sentry from "@sentry/nextjs";
 
 export const ProjectInfo = async (hash) => {
 
-  console.log("ProjectInfo hash", hash);
   console.log(Config);
   try {
     const projectInfoResponse = await fetch(
@@ -43,6 +42,7 @@ export const LoginSubmission = async (employeeCode) => {
   }
 
   try {
+    
     const loginResponse = await fetch(`${Config.PROJECT_URL}/employee/login`, {
       method: "POST",
       headers: {

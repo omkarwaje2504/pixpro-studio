@@ -51,16 +51,6 @@ jobs:
           echo "AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }}" >> $GITHUB_ENV
           echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
 
-      - name: Debug environment variables
-        run: |
-          echo "PROJECT_URL=$PROJECT_URL"
-          echo "PROJECT_SAVE_URL=$PROJECT_SAVE_URL"
-          echo "AWS_S3_BUCKET_NAME=$AWS_S3_BUCKET_NAME"
-          echo "AWS_S3_REGION=$AWS_S3_REGION"
-          echo "AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID"
-          echo "AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY"
-          echo "API_KEY=$API_KEY"
-
           
       - name: Build Website
         run: |
