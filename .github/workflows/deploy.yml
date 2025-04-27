@@ -11,7 +11,6 @@ permissions:
   pages: write
   id-token: write
 
-
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
@@ -36,7 +35,12 @@ jobs:
           path: node_modules
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: ${{ runner.os }}-node-
-      
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
       - name: Set up environment variables
         run: |
           echo "PROJECT_URL=${{ secrets.PROJECT_URL }}" >> $GITHUB_ENV
@@ -47,16 +51,22 @@ jobs:
           echo "AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }}" >> $GITHUB_ENV
           echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
 
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: latest
+      - name: Debug environment variables
+        run: |
+          echo "PROJECT_URL=$PROJECT_URL"
+          echo "PROJECT_SAVE_URL=$PROJECT_SAVE_URL"
+          echo "AWS_S3_BUCKET_NAME=$AWS_S3_BUCKET_NAME"
+          echo "AWS_S3_REGION=$AWS_S3_REGION"
+          echo "AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID"
+          echo "AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY"
+          echo "API_KEY=$API_KEY"
 
+          
       - name: Build Website
         run: |
           bun install \
           && bun run build
-        
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
@@ -64,10 +74,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: './dist'
+          path: "./dist"
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-    
