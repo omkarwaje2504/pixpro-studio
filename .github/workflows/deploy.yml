@@ -39,12 +39,12 @@ jobs:
       
       - name: Set up environment variables
         run: |
-          echo "NEXT_PUBLIC_PROJECT_URL=${{ secrets.NEXT_PUBLIC_PROJECT_URL }}" >> $GITHUB_ENV
-          echo "NEXT_PUBLIC_PROJECT_SAVE_URL=${{ secrets.NEXT_PUBLIC_PROJECT_SAVE_URL }}" >> $GITHUB_ENV
-          echo "NEXT_PUBLIC_AWS_S3_BUCKET_NAME=${{ secrets.NEXT_PUBLIC_AWS_S3_BUCKET_NAME }}" >> $GITHUB_ENV
-          echo "NEXT_PUBLIC_AWS_S3_REGION=${{ secrets.NEXT_PUBLIC_AWS_S3_REGION }}" >> $GITHUB_ENV
-          echo "NEXT_PUBLIC_AWS_ACCESS_KEY_ID=${{ secrets.NEXT_PUBLIC_AWS_ACCESS_KEY_ID }}" >> $GITHUB_ENV
-          echo "NEXT_PUBLIC_AWS_SECRET_ACCESS_KEY=${{ secrets.NEXT_PUBLIC_AWS_SECRET_ACCESS_KEY }}" >> $GITHUB_ENV
+          echo "PROJECT_URL=${{ secrets.PROJECT_URL }}" >> $GITHUB_ENV
+          echo "PROJECT_SAVE_URL=${{ secrets.PROJECT_SAVE_URL }}" >> $GITHUB_ENV
+          echo "AWS_S3_BUCKET_NAME=${{ secrets.AWS_S3_BUCKET_NAME }}" >> $GITHUB_ENV
+          echo "AWS_S3_REGION=${{ secrets.AWS_S3_REGION }}" >> $GITHUB_ENV
+          echo "AWS_ACCESS_KEY_ID=${{ secrets.AWS_ACCESS_KEY_ID }}" >> $GITHUB_ENV
+          echo "AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }}" >> $GITHUB_ENV
           echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
 
       - name: Setup Bun
